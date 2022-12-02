@@ -16,7 +16,7 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 [Site for VSC download](https://code.visualstudio.com/download)
 
 ## 3. Open folder in VSC
-
+Put all these files in one folder and open it in VSC
 ## 4. Start project in cypress
 
 Open terminal in VSC and use command: npx cypress open
