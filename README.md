@@ -19,7 +19,7 @@ The steps below will take you all the way through Cypress. It is assumed you hav
 
 ## 4. Start project in cypress
 
-Use command: npx cypress open
+Open terminal in VSC and use command: npx cypress open
 
 ## 5. Verification
 You can verify this by opening your browser and navigating to: [`https://www.saucedemo.com/`](https://www.saucedemo.com/)
