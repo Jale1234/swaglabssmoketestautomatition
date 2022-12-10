@@ -1,4 +1,4 @@
-# Swag Labs smoke test automatition
+# Swag Labs smoke test automation
 
 This repository contains automated Swag Labs smoke test written in Cypress. This test is used to test the basic functionality of the Swag Labs application.
 
